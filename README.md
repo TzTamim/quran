@@ -18,6 +18,8 @@ A modern, scalable Flutter application template following **Feature-Based Clean 
 - [License](#license)
 
 ---
+![image alt](https://github.com/TzTamim/quran/blob/d629f0e6a5843aa66e9709240e40015fe66c9327/quran_app.png)
+
 
 ## 🎯 Overview
 
